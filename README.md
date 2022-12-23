@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atefe-Komeili
+- 👋 Hi, I’m Atefe
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on OpenSource Project
